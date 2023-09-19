@@ -1,0 +1,170 @@
+@media screen and (max-width:1440px){
+    .img img{
+        width: 25%;
+
+        left: 19%;
+        top: 15%;
+   }
+   
+   .box{
+         width: 33%;
+         left: 10%;
+         
+        
+         
+     }
+     .flex{
+       
+        margin-top: 35px;
+   }
+   .size{
+        letter-spacing: 20px;
+   }
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width:1024px) {
+    
+    .img img{
+         width: 35%;
+         left: 9%;
+         top: 20%;
+    }
+    
+    .box{
+          width: 45%;
+          left: 15%;
+      }
+      .flex{
+       
+        margin-top: 39px ;
+   }
+   .size{
+        letter-spacing: 20px;
+   }
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:768px){
+     .img img{
+       width: 38%; 
+       height: 350px;
+       left: 6%;
+       top: 20%;
+
+     }
+         
+
+    .box{
+        width: 55%;
+        left: 19%;
+        
+    }
+    .flex{
+        
+        margin-top: 30px ;
+   }
+   .size{
+        letter-spacing: 20px;
+   }
+
+    
+}
+
+@media screen and (max-width:600px){
+    
+    .img img{
+         width: 50%;
+         height: 250px;
+         left: 48%;
+         top: 7%;
+    }
+    
+    
+    .box{
+          width: 90%;
+         
+          left:-1%;
+       }
+
+       .flex{
+       margin-top: 48px;
+   }
+   .size{
+        letter-spacing: 10px;
+   }
+}
+@media screen and (max-width:425px){
+     .box{
+          width: 95%;
+     } 
+     .flex{
+           margin-top: 40px;
+     }
+}
+
+
+@media screen and (max-width:375px){
+    
+      .img img{
+          width: 50%;
+          height: 220px;
+          left: 48%;
+          top: 10%;
+     } 
+     .box{
+          width: 95%;
+     }
+     .flex{
+          margin-top: 17px;
+          
+     }
+     .size{
+          letter-spacing: 10px;
+     }
+}
+
+@media screen and (max-width:320px){
+    .img img{
+        width: 49%;
+        height: 200px;
+        left: 50%;
+        top: 10%;
+   }
+   
+   h1{
+     font-size: 1.5rem;
+   }
+   .box{
+         width: 93%;
+         padding: 20px ;
+         left:1%;
+      }
+
+      .btn{
+           width: 120px;
+      }
+  .size{
+       letter-spacing: 5px;
+  }
+  .txt-2{
+      margin-top: 5px;
+  }
+  .flex{
+     margin-top: 5px;
+  }
+}
